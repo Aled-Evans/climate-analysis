@@ -1,2 +1,2 @@
-test?
+Software Carpentry course
 
